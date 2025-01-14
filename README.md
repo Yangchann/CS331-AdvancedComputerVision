@@ -20,4 +20,18 @@
 - **Course length**: 15 weeks
 - **Final Project**: Personal Protective Equipment Detection
 
+## Try it
+We have provided a Streamlit demo, which is located in the `demo` folder.
+### Install the requirements
+```
+cd demo
+pip install -r requirements.txt
+```
+### Run the Streamlit app
+```
+streamlit run Home.py
+```
+Then go to [http://localhost:8501](http://localhost:8501). You can try to detect on uploaded photo or via live camera
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/493e071d-eb0b-4f45-b04b-db59491f491a" />
+
 
