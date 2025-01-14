@@ -21,7 +21,7 @@
 - **Final Project**: Personal Protective Equipment Detection
 
 ## Try it
-We have provided a Streamlit demo, which is located in the `demo` folder.
+We have provided a Streamlit demo (use YOLOv5), which is located in the `demo` folder.
 ### Install the requirements
 ```
 cd demo
